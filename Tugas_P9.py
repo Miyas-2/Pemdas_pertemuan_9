@@ -1,4 +1,5 @@
 print("Nama: Moh Ilyas\n NRP: 152023193\n IPK: 5")
+print("Nama: Moh Ilyas\n NRP: 152023193\n Kelas: EE")
 data_panen = {
     'lokasi1': {
         'nama_lokasi': 'Kebun A',
